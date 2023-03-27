@@ -109,7 +109,7 @@ export default {
 
       this.timer = setInterval(() => {
         this.addHandler();
-      }, 10);
+      }, 1000);
     },
     resetHandler() {
       this.running = false;
