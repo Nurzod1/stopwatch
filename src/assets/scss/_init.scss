@@ -1,0 +1,36 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body,
+input,
+span,
+p,
+button{
+  font-family: Gotham Pro;
+  font-size: 22px;
+}
+
+body {
+  background-color: #353638;
+}
+
+ul {
+  list-style: none;
+}
+
+button {
+  background: transparent;
+  outline: none;
+  border: none;
+  cursor: pointer;
+}
+
+a,
+a:visited {
+  text-decoration: none;
+}

@@ -1,0 +1,15 @@
+@import "./variables.scss";
+@import "./init";
+@import "./general";
+@import "./container.scss";
+@import "./mixins.scss";
+
+ul,
+li {
+  list-style-type: none;
+}
+
+@font-face {
+  font-family: Gotham Pro;
+  src: url("@/assets/fonts/gothampro.ttf");
+}
