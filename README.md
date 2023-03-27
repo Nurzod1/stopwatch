@@ -1,4 +1,4 @@
-# stopwatch2
+# stopwatch
 
 ## Project setup
 ```
